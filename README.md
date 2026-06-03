@@ -1,7 +1,3 @@
----
-description: mütləq həqiqətin olmaması ilə bağlı
----
-
 # Mütləq həqiqət varmı
 
 Bəzi hallarda mütləq həqiqətin mümkün olduğunu, ən azından bu həqiqətin rasional həqiqət olaraq mövcud olduğunu iddia edirlər. Burda biraz onu tənqid etmək və açmaq istəyirəm. Yəni məncə ən duru görünən, başqa sözlə gün kimi aydın görünən həqiqətlər belə müəyyən çərçivədə "həqiqət" olmasını qoruyur. Misal, riyaziyyat məncə mütləq həqiqət deyil. O, sadəcə şüura sahib bir şeyin ətrafı anlama vasitəsidir. Yəni bəzən deyirlər bəs 2+2=4 doğru deyil onda ? bəli geniş mənada deyil. Yəni, bu reallığı limitləyib, anlamağım üçün lazım olan, eyni şeylərin yan-yana olmasıdır. Burda da qəbul olunmuş şərtlər var. Bunu da misallar ilə biraz da açsaq məncə daha faydalı olar. Misal, iki eyni fincanı digər iki eyni fincanla yan-yana gətirəndə nəticədə dörd fincan olur. İndi burda bəzi problemlərə baxaq. Birincisi real həyatda tam eyni olan iki fincan demək olar ki, yoxdur. Yəni bu fincanı fincan edən, onu bir qəbul edən bizik. İkincisi isə riyaziyyatda 13 fincanı 4 yerə böləndə qalıq alınır. Realda isə demək olar ki, sonsuza qədər qırıla bilir və bir nöqtədən sonra fincan olma xüsusiyyətini itirir. Bu şeylər ilə gəlinən nəticə odur ki, riyaziyyat bizim ətrafı qavrama üsulumuzdur.

@@ -1,7 +1,3 @@
----
-description: kainatın nizamlı olması ilə bağlı
----
-
 # Nizamlı kainatın zəruriliyi
 
 Kainatda nizam var yoxsa xaos ?\
