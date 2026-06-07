@@ -1,13 +1,7 @@
 ---
-description: mütləq həqiqətin olmaması ilə bağlı
+description: Github giriş üçün
 ---
 
-# Mütləq həqiqət varmı
+# Read me
 
-Bəzi hallarda mütləq həqiqətin mümkün olduğunu, ən azından bu həqiqətin rasional həqiqət olaraq mövcud olduğunu iddia edirlər. Burda biraz onu tənqid etmək və açmaq istəyirəm. Yəni məncə ən duru görünən, başqa sözlə gün kimi aydın görünən həqiqətlər belə müəyyən çərçivədə "həqiqət" olmasını qoruyur. Misal, riyaziyyat məncə mütləq həqiqət deyil. O, sadəcə şüura sahib bir şeyin ətrafı anlama vasitəsidir. Yəni bəzən deyirlər bəs 2+2=4 doğru deyil onda ? bəli geniş mənada deyil. Yəni, bu reallığı limitləyib, anlamağım üçün lazım olan, eyni şeylərin yan-yana olmasıdır. Burda da qəbul olunmuş şərtlər var. Bunu da misallar ilə biraz da açsaq məncə daha faydalı olar. Misal, iki eyni fincanı digər iki eyni fincanla yan-yana gətirəndə nəticədə dörd fincan olur. İndi burda bəzi problemlərə baxaq. Birincisi real həyatda tam eyni olan iki fincan demək olar ki, yoxdur. Yəni bu fincanı fincan edən, onu bir qəbul edən bizik. İkincisi isə riyaziyyatda 13 fincanı 4 yerə böləndə qalıq alınır. Realda isə demək olar ki, sonsuza qədər qırıla bilir və bir nöqtədən sonra fincan olma xüsusiyyətini itirir. Bu şeylər ilə gəlinən nəticə odur ki, riyaziyyat bizim ətrafı qavrama üsulumuzdur.
-
-Mənim burdan məşhur bir suala cavabım da odur ki, riyaziyyat geniş mənada icaddır, dar mənada isə kəşf. Amma niyə dar mənada ? çünki, biliyimiz həmişə limitlidir və reallığa uyğunlaşdıra bildiyimiz şeylər həmişə sonludur. Yəni həmişə "ondan" sonra var deyə dar mənada dedim. Buradan belə bir şey çıxmasın ki, reallıq yoxdur. Reallıq bizim şüurdan kənarda da var. Amma necə var bunu ancaq limitli şəkildə bilə bilərik. Bu reallığı öyrənən şüur olan insanın əlində bir vasitədir riyaziyyat.
-
-Başqa şüur olsa idi, başqa bir riyaziyyat mümkün olardı bəs ? Məncə bəli, amma struktur və mahiyyət eyni olardı. Yəni bir reallıq var, amma o şüurdan asılı deyil. Onun məcburi strukturları olduğuna görə riyaziyyat bu strukturların məcburi dilidir. Amma onun simvolları, gediş yolları bizdən asılıdır. Başqa misallar verək, amma bu səfər çox işlənən aksiomlardan birini istifadə edək. Aksiom : paralel xətlər heç vaxt kəsişmir. İndi bu özlüyündə harada doğrudur ? Evklid həndəsəsində doğrudur. Yəni, mükəmməl fəzada doğrudur. Amma sferik həndəsə də bu doğru deyil, kəsişir doğrudur.
-
-Reallıq necədir bəs, ki, ona tam uyğun olan bir şey olsun ? reallıq bizim hər dəfə limitli şəkildə bildiyimiz, üfüqlərini genişləndirdiyimiz bir şeydir deyə, bir tərəfdən də mütləq həqiqət yoxdur deyirəm) Nəhayət əlimizdə olan bu limitli şeylərə, ən azından müəyyən çərçivədə işləyir deyə güvənməli, amma bununla kifayətlənməməli və hər daim üfüqləri birazda genişləndirməliyik. Bu mənada bundan kənarda olan hər düşüncə də lazımlı ola bilər, ən azından mübarizə və irəliləyişə məcbur qalmaq baxımından.
+Bu repository mənim fəlsəfi qeydlərim və məqalələrim üçün nəzərdə tutulub.

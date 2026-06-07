@@ -1,7 +1,3 @@
----
-description: epistemologiya ilə bağlı
----
-
 # Epistemoloji yanaşmam
 
 Mən aqnostik-ateistəm. Ateistlik burda inam baxımından mövqeyimdir, aqnostiklik isə bilik baxımından mövqeyimdir. Deməli inam olaraq mən deyirəm, "mən tanrının varlığına inanmıram", amma bilik olaraq deyirəm, "tanrının var olub - olmadığını bilmək mümkün deyil". Qarşı tərəf mənə tanrı təklifi ilə gələndə, ona bir sual verib və bunun üstündə dayanıram : niyə tanrıya inanmalıyam ? inanc "default" deyil, avtomatik qəbul edilməməlidir. Yəni, "tanrı var sayılır, sən onu təkzib etməlisən" fikri tamamilə səhvdir. Rasional düşüncədə qayda belədir : sübutu olmayan iddia avtomatik olaraq rədd edilir.
