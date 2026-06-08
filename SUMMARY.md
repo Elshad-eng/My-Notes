@@ -4,4 +4,5 @@
 * [Mütləq həqiqət varmı](<README (1).md>)
 * [Nizamlı kainatın zəruriliyi](nizamli-kainatin-z-ruriliyi.md)
 * [Epistemoloji yanaşmam](epistemoloji-yanasmam.md)
-* [Niyə əxlaqlı davranmalıyıq ?](niy-xlaqli-davranmaliyiq.md)
+* [Niyə əxlaqlı davranmalıyıq ?](niy-xlaqli-davranmaliyiq/README.md)
+  * [Heyvanlara qarşı niyə əxlaqlı davranmalıyıq ?](niy-xlaqli-davranmaliyiq/heyvanlara-qarsi-niy-xlaqli-davranmaliyiq.md)
