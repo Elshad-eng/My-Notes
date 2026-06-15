@@ -11,3 +11,4 @@
 * [Həndəsi fiqurların ailələri](h-nd-si-fiqurlarin-ail-l-ri/README.md)
   * [3D-də olanlara baxaq](h-nd-si-fiqurlarin-ail-l-ri/3d-d-olanlara-baxaq.md)
 * [AXC rəhbərləri](axc-r-hb-rl-ri.md)
+* [Eramızdan əvvəl dünyanın vəziyyəti](eramizdan-vv-l-dunyanin-v-ziyy-ti.md)
