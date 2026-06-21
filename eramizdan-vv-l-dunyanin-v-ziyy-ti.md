@@ -1,6 +1,6 @@
 # Eramızdan əvvəl dünyanın vəziyyəti
 
-## Şumerlər və Qədim Misir
+## Şumerlər, Qədim Misir və Qədim Hindistan
 
 e.ə. IV minillik (təb. e.ə. 3500-3100)
 
@@ -10,6 +10,10 @@ Akkad İmperiyası Şumerləri sildi / Necə oldu: Şumerlər vahid dövlət dey
 
 Roma İmperiyası Qədim Misir Dövlətini sildi (e.ə. 30) / Necə oldu: Minilliklər boyu (bəzən zəifləsə də) yaşayan Qədim Misir dövlətinin son nöqtəsini Romalılar qoydu. Məşhur kraliça Kleopatranın intiharından sonra Roma Misiri özünün sıravi bir vilayətinə (əyalətinə) çevirdi və fironlar dövrü bitdi.
 
+Qədim Hindistan (Harappa/Sind mədəniyyəti) e.ə. IV minilliyin sonu - III minillik (təb. e.ə. 3300-1300)\
+Nə idi: Şumer və Misir ilə eyni dövrdə, Hind çayı vadisində yaranmış dünyanın ilk sivilizasiyalarından biridir. İndiki Pakistan və Şimal-Qərbi Hindistan ərazisini əhatə edirdi. Mohenco-Daro və Harappa kimi şəhərləri var idi.\
+Ari tayfaları və İqlim dəyişikliyi bu mədəniyyəti sildi: E.ə. II minilliyin ortalarında iqlimin qurulaşması və eyni dövrdə şimaldan gələn köçəri Ari tayfalarının axınları nəticəsində şəhərlər tənəzzül etdi və yerli mədəniyyət tarixdən silindi.
+
 ## Akkad İmperiyası
 
 e.ə. XXIV əsr (e.ə. 2334)
@@ -17,6 +21,12 @@ e.ə. XXIV əsr (e.ə. 2334)
 Şumerləri və ətraf torpaqları işğal edərək tarixdəki ilk çoxmillətli imperiyanı qurdular.
 
 Quti və Elam tayfaları Akkad İmperiyasını sildi / Necə oldu: Akkad daxildən zəifləyəndə, Azərbaycan ərazisindən gələn qədim Quti tayfaları və cənubdan gələn Elamlılar Akkadın paytaxtını dağıtdılar və bu ilk imperiyanın mövcudluğuna son qoydular.
+
+## Qədim Çin (Şan və Çjou sülalələri dönəmi)
+
+e.ə. II minillik - e.ə. III əsr (e.ə. 1600 - 256)\
+Nə idi: Xuanxe (Sarı çay) boyunca yaranan ilk Çin krallıqlarıdır. e.ə. V-III əsrlərdə tarixə "Vuruşan padşahlıqlar dövrü" kimi düşən, bir-biri ilə savaşan 7 böyük krallıqdan ibarət idi.\
+Sin sülaləsi bu dağınıqlığı sildi (e.ə. 221): Vuruşan padşahlıqlardan biri olan Sin (Qin) krallığının hökmdarı Çində mərkəzləşdirilmiş dövlətin əsasını qoydu.
 
 ## Qədim Aşşur və Qədim Babil
 
@@ -48,6 +58,18 @@ Tarixi qaynaqlara görə, Deyok (Deiokes) adlı bir tayfa başçısı ədaləti 
 
 Midiya imperiyasının ömrü çox uzun çəkmədi (təxminən 150 il). Onun süqutu elə öz daxilindən oldu. Midiya sarayında böyüyən fars şahzadəsi II Kir (Böyük Kir) e.ə. 550-ci ildə öz babası olan Midiya şahı Astiaqa qarşı üsyan qaldırdı. Kir qalib gəldi, Midiyanı süquta uğratdı və onun bütün nəhəng torpaqları üzərində ötən silsilədə danışdığımız Əhəməni (Pers) İmperiyasını qurdu.
 
+## Qədim Yunanıstan (Polis - Şəhər dövlətləri dövrü)
+
+e.ə. VIII - IV əsrlər\
+Nə idi: Yunanlar da Şumerlər kimi vahid dövlət deyildilər. Balkan yarımadasında və adalarda "Polis" adlanan müstəqil şəhər-dövlətləri (Afina, Sparta, Fiva və s.) halında yaşayırdılar.\
+Makedoniya Krallığı müstəqil polisləri sildi (e.ə. 338): Yunan şəhərləri öz aralarında uzun müddət müharibə etdilər (Peloponnes müharibəsi) və zəiflədilər. Şimaldan gələn Makedoniyalı II Filip Xeroneya döyüşündə yunanları məğlub etdi və polislərin müstəqilliyinə son qoydu.
+
+## Qədim Roma (Padşahlıq və Respublika dönəmi)
+
+e.ə. 753 - e.ə. 27\
+Nə idi: İtaliyada kiçik bir padşahlıq kimi quruldu, e.ə. 509-cu ildə kral qovuldu və Respublika idarəetməsinə keçildi. Roma Respublikası senat tərəfindən idarə olunurdu. Onlar əvvəlcə İtaliyanı, sonra Aralıq dənizi ətrafını ( o cümlədən Karfageni, Yunanıstanı və Misiri) işğal etdilər.\
+Daxili diktatura Respublikanı sildi (e.ə. 27): Respublika ərazisi böyüdükcə generallar aradında daxili müharibələr başladı. Yuli Sezarın ölümündən sonra onun oğulluğu Oktavian Avqust bütün rəqiblərini məğlub edərək təkbaşına hakim oldu və respublika quruluşunu ləğv edib imperiya elan etdi.
+
 ## Yeni Babilistan (II Babil Dövləti)
 
 e.ə. VII əsr (e.ə. 626)
@@ -64,6 +86,12 @@ Milli mənşəyi fars (pers) olan II Kir tərəfindən quruldu. Onlar Midiyanı,
 
 Makedoniyalı İskəndər (Yunanlar) Əhəməni (Fars) İmperiyasını sildi (e.ə. 330) / Necə oldu: Yenə qeyd etdiyin kimi, tamamilə doğrudur. Makedoniyalı İskəndər qərbdən gələrək böyük orduları darmadağın etdi, farsların paytaxtı Persepolisi yandırdı və Əhəməni imperiyasını tarixin arxivinə göndərdi.
 
+## Makedoniya İmperiyası (Böyük İskəndər dövrü)
+
+e.ə. IV əsr (e.ə. 336 - 323)\
+Nə idi: II Filipin ölümündən sonra taxta çıxan Makedoniyalı İskəndər atasının qurduğu ordunu götürərək şərqə yeridi. Sizin siyahıdakı Əhəməni İmperiyasını yer üzündən silərək Yunanıstandan Hindistana qədər uzanan nəhəng bir imperiya qurdu.\
+Daxili parçalanma imperiyanı sildi (e.ə. 323): İskəndər öləndən sonra onun yerinə varis qalmadı. Onun generalları (diadoxlar) imperiyanı öz aralarında böldülər. İmperiya parçalandı və yerində Selevkilər, Ptolemeylər (Misir) və Makedoniya krallıqları yarandı. (Bu parçalanma nəticəsində Azərbaycanda Atropatena və Albaniya quruldu).
+
 ## Atropatena və Albaniya dövlətləri
 
 e.ə. IV əsr (e.ə. 330-320)
@@ -74,6 +102,18 @@ Sasanilər (Yeni Fars sülaləsi) Atropatenanı sildi (eramızın III əsri) / N
 
 Ərəb Xilafəti Albaniya dövlətini sildi (eramızın 705-ci ili) / Necə oldu: Azərbaycanın şimalındakı Albaniya dövləti uzun əsrlər müqavimət göstərsə də, İslam bayrağı altında gələn Ərəb orduları tərəfindən 705-ci ildə tamamilə ləğv edildi və xilafətin tərkibinə qatıldı.
 
+## Qədim Hindistan (Mauriya və Qupta İmperiyaları)
+
+e.ə. IV əsr - eramızın VI əsri\
+Nə idi: İskəndərin Hindistan yürüşündən sonra hindlilər birləşərək Mauriya İmperiyasını qurdular. Bir neçə əsr sonra isə Hindistanın qızıl dövrü sayılan, elm və riyaziyyatın (sıfır rəqəminin kəşfi) zirvəyə çatdığı Qupta İmperiyası (eramızın 320-550) yarandı.\
+Ağ Hunlar (Eftalilər) Qupta İmperiyasını sildi (eramızın 550): Mərkəzi Asiyadan gələn köçəri Türk tayfaları — Ağ Hunlar Hindistana aramsız hücumlar etdilər. Mərkəzi hakimiyyəti zəiflətdi və imperiya kiçik-kiçik knyazlıqlara (rəcalıqlara) parçalanaraq yox oldu.
+
+## Qədim Çin (Sin və Xan İmperiyaları)
+
+e.ə. III əsr - eramızın III əsri (e.ə. 221 - eramızın 220)\
+Nə idi: Sin Şi Xuandi Çini birləşdirərək ilk Çin İmperiyasını qurdu (Çin Seddini tamamlayan və Terrakota ordusunu düzəldən odur). Ondan sonra gələn Xan sülaləsi isə Çini qızıl dövrünə çatdırdı, Böyük İpək Yolunu aktivləşdirdi və sizin siyahıdakı Böyük Hun İmperiyası ilə əsr boyu savaşdı.\
+Kəndli üsyanları və daxili hərbi kliklər Xan sülaləsini sildi (eramızın 220): Saray daxili intriqalar, "Sarı sarıqlılar" adlı xalq üsyanı imperiyanı zəiflətdi. Generallar imperatoru oyuncağa çevirdilər və eramızın 220-ci ilində Çin rəsmən 3 müstəqil krallığa parçalandı ("Üç krallıq dövrü") və Xan imperiyası süqut etdi.
+
 ## Böyük Hun İmperiyası (Asiya Hunları)
 
 e.ə. III əsr (e.ə. 220)
@@ -82,11 +122,26 @@ Mərkəzi Asiyada (indiki Monqolustan və Çinin şimalı) Teoman (Tuman) xaqan 
 
 Daxili Müharibələr və Syanbilər Böyük Hun İmperiyasını sildi (eramızın 48 - 216-cı illəri) / Necə oldu: Asiya Hunları Çin tərəfindən birbaşa silinmədi. Hunlar daxili taxt davasına görə əvvəlcə iki yerə (Şimal və Cənub) parçalandılar, zəiflədilər. Son zərbəni isə digər köçəri tayfalar (Syanbilər) vurdu və imperiya dağıldı. (Lakin onların bir qolu qərbə köçərək sonradan Avropa Hun İmperiyasını qurdu).
 
+## Roma İmperiyası (Bütöv və Parçalanma dönəmi)
+
+e.ə. 27 - eramızın 395-ci ili\
+Nə idi: Oktavian Avqustun qurduğu bu dövlət Britaniyadan Misirə, İspaniyadan Mesopotamiyaya qədər uzanan, bir imperiya idi. (Sizin qeyd etdiyiniz Kleopatranın intiharı və Misirin işğalı məhz bu keçid dövründə — e.ə. 30-cu ildə baş verib).\
+İmperiya öz nəhəngliyi altında əzildi və iki yerə bölündü (395): Xristianlığın qəbulu və iqtisadi böhran fonunda İmperator I Teodosinin ölümündən sonra dövlət rəsmən iki yerə — Qərbi Roma və Şərqi Roma (Bizans) imperiyalarına parçalandı.
+
+## Qərbi Roma İmperiyası
+
+eramızın 395 - 476-cı illəri\
+Nə idi: Paytaxtı Roma (sonra Ravenna) olan, Avropa torpaqlarını əhatə edən hissə.\
+Xalqların Böyük Köçü və German tayfaları Qərbi Romanı sildi (476): Asiyadan gələn Hunların (Avropa Hunları) təzyiqi ilə yerindən tərpənən german tayfaları (vandallar, qotlar) Romanı dəfələrlə talan etdilər. 476-cı ildə german muzdlu komandiri Odoakr sonuncu Roma imperatoru Romul Avqustulu taxtdan saldı. Qərbi Roma süqut etdi və Avropada Orta Əsrlər başladı.
+
 ### 🗺️ Ərazi baxımından kim harada idi? (Xülasə)
 
 * **Mesopotamiyanın sahibləri (zaman sırası ilə):** Şumerlər ; Akkadlar ; Qədim Babil ; Aşşur İmperiyası ; Yeni Babil (II Babil).
+* **Uzaq Şərqin qapalı gücü:** Çin (Vuruşan padşahlıqlar -> Sin sülaləsi ilə vahid imperiya -> Xan sülaləsi ilə Hunlara qarşı böyük güc).
+* **Cənubi Asiyanın zənginliyi:** Hindistan (Sind mədəniyyəti dağıldıqdan sonra Mauriya və Qupta imperiyaları ilə mərkəzləşdi, lakin Ağ Hunlar tərəfindən parçalandı)
 * **İran və bütöv Yaxın Şərqin böyük sahibi:** Perslər (Əhəmənilər) — gəlib yuxarıdakı bütün Mesopotamiya dövlətlərini və Misiri özünə tabe etdilər.
 * **Azərbaycanın sahibləri (zaman sırası ilə):** Manna (e.ə. IX əsr) ; Atropatena və Albaniya (e.ə. IV əsr).
+* **Aralıq dənizi və Avropanın mütləq sahibi:** Roma sivilizasiyası (Padşahlıq -> Respublika -> İmperiya zənciri ilə gəlib Yunanıstan, Misir və Karfagen sülalələrini uddu).
 * **Mərkəzi Asiya və Çin ətrafı:** Böyük Hun İmperiyası (e.ə. III əsr).
 
 {% hint style="info" %}
@@ -95,4 +150,12 @@ Qeyd: Misir Akkadlardan əvvəl yaranıbsa, necə olur ki, ilk imperiya Akkadlar
 Qədim Misir bir "Milli Dövlət" idi: E.ə. 3100-cü ildə yarananda Misir yalnız öz doğma xalqını (misirliləri) vahid bir padşahın ətrafında birləşdirmişdi. Fərqli xalqları və fərqli ölkələri işğal edib özünə qatmamışdı (Misir yalnız əsrlər sonra, e.ə. II minillikdə Yeni Şahlıq dövründə imperiyaya çevrildi).
 
 Akkadlar isə ilk "İmperiya" idi: Çünki Akkad kralı Sarqon e.ə. XXIII əsrdə təkcə öz torpaqlarını idarə etmədi; getdi tamamilə fərqli bir mədəniyyət və dilə sahib olan Şumerləri, eləcə də ətrafdakı digər yad tayfaları və şəhərləri güclə işğal edərək tək bir mərkəzə bağladı.
+{% endhint %}
+
+{% hint style="info" %}
+Qeyd: Qərbi Roma İmperiyası 476-cı ildə süqut edərkən, onun şərqdəki qardaşı — yəni Şərqi Roma İmperiyası (tarixçilərin sonradan adlandırdığı Bizans) daha 1058 il yaşamağı bacardı.\
+Bu uzunömürlü imperiyanın tarixin arxivinə necə getdiyini eyni sistemlə xülasə edək:\
+🏛️ Şərqi Roma İmperiyası (Bizans)eramızın 395 – 1453-cü illəri\
+Nə idi: Paytaxtı Konstantinopol (indiki İstanbul) olan imperiya idi.İtaliya, Şimali Afrika və Aralıq dənizi sahillərini yenidən fəth edərək qədim Romanın əzəmətini bərpa etmişdi.\
+Osmanlı İmperiyası Bizansı sildi (1453): Əsrlər boyu Sasani, Ərəb və Səlcuqlu hücumlarına tab gətirən, lakin daxili çəkişmələr və Səlib yürüşləri (1204-cü ildə xristian səlibçilər özləri də konstantinopola hücüm rdiblər).Osmanlı sultanı II Mehmed (Fateh Sultan Mehmed) 53 günlük mühasirədən sonra 29 may 1453-cü ildə Konstantinopolu fəth etdi. Beləliklə Şərqi Roma İmperiyası rəsmən tarixdən silindi.
 {% endhint %}

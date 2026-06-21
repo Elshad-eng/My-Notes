@@ -12,3 +12,6 @@
   * [3D-də olanlara baxaq](h-nd-si-fiqurlarin-ail-l-ri/3d-d-olanlara-baxaq.md)
 * [AXC rəhbərləri](axc-r-hb-rl-ri.md)
 * [Eramızdan əvvəl dünyanın vəziyyəti](eramizdan-vv-l-dunyanin-v-ziyy-ti.md)
+* [OSI modeli](osi-modeli/README.md)
+  * [The journey of data (episode 1)](osi-modeli/the-journey-of-data-episode-1.md)
+  * [The journey of data (episode 2)](osi-modeli/the-journey-of-data-episode-2.md)
