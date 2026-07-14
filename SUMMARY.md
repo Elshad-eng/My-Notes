@@ -15,3 +15,4 @@
 * [OSI modeli](osi-modeli/README.md)
   * [The journey of data (episode 1)](osi-modeli/the-journey-of-data-episode-1.md)
   * [The journey of data (episode 2)](osi-modeli/the-journey-of-data-episode-2.md)
+* [IT roles](it-roles.md)
