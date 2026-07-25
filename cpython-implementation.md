@@ -102,6 +102,31 @@ Yəni parser artıq proqramın mənasını və strukturunu anlayır.
 {% endstep %}
 
 {% step %}
+### Semantic Analyzer
+
+O, koddakı sözlərin və operatorların tiplərini, mənalarını və aralarındakı uyğunluğu yoxlayır.\
+Syntax Analyzer deyir: "Yazılış qaydası düzgündür!"\
+Semantic Analyzer isə deyir: "Yazılış düz ola bilər, amma dediyin şey məntiqsizdir və ya xətaya yol açacaq!"\
+Semantik Analyzer-in Yoxladığı 4 Əsas Şey:
+
+\
+**A. Tip Uyğunluğu (Type Checking)**\
+Sən iki fərqli məlumat tipini toplamaq istəyəndə semantik analyzer bunu tutur.
+
+\
+**B. Elan Olunmamış Dəyişənlər (Undeclared Variables)**\
+Mövcud olmayan bir şeyi istifadə etməyə çalışanda.
+
+\
+**C. Kapsam və Əlçatanlıq (Scope Checking)**\
+Bir funksiyanın daxilində yaradılmış lokal dəyişəni xaricdən çağırmağa çalışanda.
+
+\
+**D. Funksiya Parametrlərinin Uyğunluğu**\
+Funksiya 2 arqument gözləyirsə, amma sən 3-ünü göndərəndə və ya yanlış tipdə göndərəndə bunu tutan da semantik analyzer-dir.
+{% endstep %}
+
+{% step %}
 ### Compiler
 
 Burada çox adam yanılır. Python-da da compiler var. Amma o maşın kodu yaratmır. O, bunu yaradır:
@@ -247,9 +272,15 @@ NumPy-nin sürətli olmasının səbəblərindən biri də budur.
 
 İndi öyrəndiyimiz 8 mərhələni tək bir şəkildə birləşdirək:
 
+🔴 I MƏRHƏLƏ: Compile Time (Kodu Hazırlama)
+
 1. **Source Code (`main.py`)**: Sənin yazdığın xam mətn.
 2. **Lexer**: Mətni Token-lərə bölür.
 3. **Parser**: Qrammatikanı yoxlayır, AST (Ağac) yaradır.
-4. **Compiler**: AST-dən PVM üçün Bytecode və Code Object istehsal edir.
-5. **PVM (Interpreter)**: Bytecode-u Stack-based icra edir, Standard Library və C API ilə əlaqə qurur.
-6. **Memory Management & GC**: PyMalloc ilə yer ayırır, Reference Counting və Generational GC ilə yaddaşı təmiz saxlayır.
+4. **Semantic Analyzer:** AST-yə məna verir: Tipləri, əlçatanlıq zonalarını (Scope) və məntiqi qaydaları yoxlayır / AST-ni zənginləşdirir
+5. **Compiler**: AST-dən PVM üçün Bytecode və Code Object istehsal edir.
+
+🟢 II MƏRHƏLƏ: Runtime (İcra Mühiti — Canlı İşləmə)
+
+1. **Executer /PVM (Interpreter)**: Bytecode-u götürür, Stack-based məntiqi ilə tək-tək icra edir (execute edir), Standard Library və C API ilə əlaqə qurur.
+2. **Memory Management & GC**: PyMalloc ilə yer ayırır, Reference Counting və Generational GC ilə yaddaşı təmiz saxlayır.
