@@ -18,3 +18,4 @@
 * [IT roles](it-roles.md)
 * [ICT and CS](ict-and-cs.md)
 * [CPython İmplementation](cpython-implementation.md)
+* [UI terminləri](ui-terminl-ri.md)
