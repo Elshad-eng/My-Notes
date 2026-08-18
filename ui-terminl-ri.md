@@ -7,11 +7,13 @@
 5. **Panel:** Oxşar məlumatları, tənzimləmələri və ya alətləri bir araya toplayan, qrafik olaraq ayrılmış idarəetmə sahəsidir. İstifadəçinin müəyyən funksiyaları vahid pəncərədən icra etməsini asanlaşdırır. Yəni **sidebar panel ola bilər**, amma hər panel sidebar deyil.
 6. **Toggle switch (Açma/bağlama açarı):** İki vəziyyət (məsələn: aktiv/deaktiv və ya açıq/qapalı) arasında dərhal keçid etməyə imkan verən interaktiv düymədir. Fiziki elektrik açarlarının rəqəmsal analoqudur və dəyişiklik dərhal qüvvəyə minir.
 7. **Tooltip (İpucu):** Kursor bir elementin (düymə, ikon və s.) üzərinə gətirildikdə açılan kiçik məlumat qutusudur. İstifadəçiyə həmin elementin funksiyasını anlamaq üçün qısa izahat verir.
-8. **Pop-up (Açılan pəncərə):** Əsas səhifənin üzərində qəfil açılan, bildiriş, xəbərdarlıq və ya təklif göstərən müstəqil pəncərədir. İstifadəçidən adətən onu bağlamaq və ya göstərilən hərəkəti təsdiqləmək tələb olunur.
+8. **Pop-up (Açılan pəncərə):** Əsas səhifənin üzərində qəfil açılan, bildiriş, xəbərdarlıq və ya təklif göstərən müstəqil pəncərədir. İstifadəçidən adətən onu bağlamaq və ya göstərilən hərəkəti təsdiqləmək tələb olunur. Pop-up bir overlay-dir.
 9. **Box (Qutu / Blok):** Mətni, şəkli və ya müəyyən elementləri ətrafından vizual çərçivə ilə ayıran həndəsi məzmun sahəsidir. Səhifənin vizual iyerarxiyasını və səliqəsini təmin etmək üçün tətbiq olunur.
 10. **Section (Bölmə):** Veb-səhifənin məzmununu məntiqi hissələrə (məsələn: “Haqqımızda”, “Xidmətlər”, “Əlaqə”) ayıran geniş tematik blokdur. Oxucunun səhifəni mərhələli və rahat qavramasına kömək edir.
 11. **Button (Düymə):** Klikləndikdə form göndərmək, səhifə dəyişmək və ya bir əməliyyatı başlatmaq kimi konkret funksiyanı icra edən interaktiv elementdir. İstifadəçi interfeysində ən əsas çağırış (Call-to-Action) alətidir.
-12. **Overlay (Örtük layı):** Əsas səhifənin üzərini qismən və ya tamamilə qapadaraq (adətən qaraldaraq) diqqəti modal pəncərəyə və ya mərkəzi mesaja cəmləyən şəffaf qatdır. Arxa fondakı elementlərlə qarşılıqlı əlaqəni müvəqqəti məhdudlaşdırır.
+12. **Overlay (Örtük layı):** Əsas səhifənin üzərini qismən və ya tamamilə qapadaraq (adətən qaraldaraq) diqqəti modal pəncərəyə və ya mərkəzi mesaja cəmləyən şəffaf qatdır. Arxa fondakı elementlərlə qarşılıqlı əlaqəni müvəqqəti məhdudlaşdırır. **Hər popup overlay ola bilər, amma hər overlay popup deyil.** ✅
+
+    Məsələn, popup olmadan sadəcə bütün ekranı tündləşdirən overlay də ola bilər.
 13. **Dropdown (Açılan siyahı):** Üzərinə kliklədikdə və ya kursor gətirildikdə aşağıya doğru çoxsaylı seçimlər siyahısı açan yığcam menyudur. Ekranda yerə qənaət edərək geniş seçim imkanı təqdim edir.
 14. **Modal:** Əsas səhifəni və ya arxa fonu kilidləyən, istifadəçi müəyyən bir qərar vermədən və ya məlumat daxil etmədən arxa fondakı interfeyslə işləməyə imkan verməyən pəncərə növüdür.
 15. **Breadcrumbs (Çörək qırıntıları):** İstifadəçiyə veb-sayt daxilində cari olaraq hansı səhifədə olduğunu və əsas səhifədən ora necə gəldiyini göstərən iyerarxik naviqasiya zolağıdır (məsələn: Ana səhifə > Kateqoriya > Məhsul).
