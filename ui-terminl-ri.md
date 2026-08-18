@@ -4,7 +4,7 @@
 2. **Placeholder (Mətn nümunəsi / Yer tutucu):** Daxiletmə sahələrində (input) istifadəçiyə nə yazmalı olduğunu göstərən, mətn daxil edildikdə isə itən solğun bələdçi yazıdır. Nümunə və ya tələb olunan formatı qısaca xatırlatmaq funksiyasını daşıyır.
 3. **Banner:** Veb-səhifənin yuxarı və ya diqqətçəkən hissəsində yerləşən, adətən reklam, elan və ya vizual başlıq xarakteri daşıyan qrafik blokdur. Ziyarətçinin diqqətini dərhal xüsusi bir mesaja və ya aksiyaya yönəltmək üçün istifadə olunur.
 4. **Sidebar (Yan panel):** Səhifənin sol və ya sağ tərəfində yerləşən, əsasən naviqasiya menyusu, filtrlər və ya əlavə keçidləri saxlayan sütundur. Əsas məzmunu bölmədən yardımçı vasitələrə asan çıxış təmin edir.
-5. **Panel:** Oxşar məlumatları, tənzimləmələri və ya alətləri bir araya toplayan, qrafik olaraq ayrılmış idarəetmə sahəsidir. İstifadəçinin müəyyən funksiyaları vahid pəncərədən icra etməsini asanlaşdırır.
+5. **Panel:** Oxşar məlumatları, tənzimləmələri və ya alətləri bir araya toplayan, qrafik olaraq ayrılmış idarəetmə sahəsidir. İstifadəçinin müəyyən funksiyaları vahid pəncərədən icra etməsini asanlaşdırır. Yəni **sidebar panel ola bilər**, amma hər panel sidebar deyil.
 6. **Toggle switch (Açma/bağlama açarı):** İki vəziyyət (məsələn: aktiv/deaktiv və ya açıq/qapalı) arasında dərhal keçid etməyə imkan verən interaktiv düymədir. Fiziki elektrik açarlarının rəqəmsal analoqudur və dəyişiklik dərhal qüvvəyə minir.
 7. **Tooltip (İpucu):** Kursor bir elementin (düymə, ikon və s.) üzərinə gətirildikdə açılan kiçik məlumat qutusudur. İstifadəçiyə həmin elementin funksiyasını anlamaq üçün qısa izahat verir.
 8. **Pop-up (Açılan pəncərə):** Əsas səhifənin üzərində qəfil açılan, bildiriş, xəbərdarlıq və ya təklif göstərən müstəqil pəncərədir. İstifadəçidən adətən onu bağlamaq və ya göstərilən hərəkəti təsdiqləmək tələb olunur.
@@ -24,3 +24,11 @@
 22. **Call to Action / CTA (Hərəkətə çağırış):** İstifadəçini qeydiyyatdan keçməyə, alış-veriş etməyə və ya abunə olmağa sövq edən xüsusi vurğulanmış düymə və ya linkdir.
 23. **Splash screen (Açılış ekranı):** Proqram və ya tətbiq tam yüklənənə qədər ekranda qısa müddətə görünən təqdimat və ya loqo ekranıdır.
 24. **System tray (Bildiriş sahəsi):** Əməliyyat sisteminin tapşırıqlar panelində (adətən sağ aşağı küncdə) yerləşən, arxa fonda işləyən proqramların ikonlarını, saatı, şəbəkə və səs kimi sistem vəziyyətlərini göstərən xüsusi idarəetmə sahəsidir. İstifadəçiyə aktiv arxa plan proseslərinə sürətli çıxış və tənzimləmə imkanı yaradır.
+
+#### Qeyd : “Lay” ilə bağlı UI terminləri
+
+* **Layout** → elementlərin ümumi düzülüşü
+* **Layer** → elementin digər elementlərin **üstündə/altında yerləşməsi** (qat)
+* **Overlay** → başqa məzmunun **üstünə çıxan qat**, məsələn popup
+* **Grid layout** → elementləri sətir-sütun şəklində düzür
+* **Flex layout** → elementləri əsasən üfüqi və ya şaquli istiqamətdə düzür
