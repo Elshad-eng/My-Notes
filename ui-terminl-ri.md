@@ -11,7 +11,7 @@
 9. **Box (Qutu / Blok):** Mətni, şəkli və ya müəyyən elementləri ətrafından vizual çərçivə ilə ayıran həndəsi məzmun sahəsidir. Səhifənin vizual iyerarxiyasını və səliqəsini təmin etmək üçün tətbiq olunur.
 10. **Section (Bölmə):** Veb-səhifənin məzmununu məntiqi hissələrə (məsələn: “Haqqımızda”, “Xidmətlər”, “Əlaqə”) ayıran geniş tematik blokdur. Oxucunun səhifəni mərhələli və rahat qavramasına kömək edir.
 11. **Button (Düymə):** Klikləndikdə form göndərmək, səhifə dəyişmək və ya bir əməliyyatı başlatmaq kimi konkret funksiyanı icra edən interaktiv elementdir. İstifadəçi interfeysində ən əsas çağırış (Call-to-Action) alətidir.
-12. **Overlay (Örtük layı):** Əsas səhifənin üzərini qismən və ya tamamilə qapadaraq (adətən qaraldaraq) diqqəti modal pəncərəyə və ya mərkəzi mesaja cəmləyən şəffaf qatdır. Arxa fondakı elementlərlə qarşılıqlı əlaqəni müvəqqəti məhdudlaşdırır. **Hər pop-up overlay ola bilər, amma hər overlay pop-up deyil.** ✅
+12. **Overlay (Örtük layı):** Əsas səhifənin üzərini qismən və ya tamamilə qapadaraq (adətən qaraldaraq) diqqəti modal pəncərəyə və ya mərkəzi mesaja cəmləyən şəffaf qatdır. Arxa fondakı elementlərlə qarşılıqlı əlaqəni müvəqqəti məhdudlaşdırır. **Hər pop-up overlay ola bilər, amma hər overlay pop-up deyil.**
 
     Məsələn, popup olmadan sadəcə bütün ekranı tündləşdirən overlay də ola bilər.
 13. **Dropdown (Açılan siyahı):** Üzərinə kliklədikdə və ya kursor gətirildikdə aşağıya doğru çoxsaylı seçimlər siyahısı açan yığcam menyudur. Ekranda yerə qənaət edərək geniş seçim imkanı təqdim edir.
