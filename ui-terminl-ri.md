@@ -15,7 +15,7 @@
 
     Məsələn, popup olmadan sadəcə bütün ekranı tündləşdirən overlay də ola bilər.
 13. **Dropdown (Açılan siyahı):** Üzərinə kliklədikdə və ya kursor gətirildikdə aşağıya doğru çoxsaylı seçimlər siyahısı açan yığcam menyudur. Ekranda yerə qənaət edərək geniş seçim imkanı təqdim edir.
-14. **Modal:** Əsas səhifəni və ya arxa fonu kilidləyən, istifadəçi müəyyən bir qərar vermədən və ya məlumat daxil etmədən arxa fondakı interfeyslə işləməyə imkan verməyən pəncərə növüdür.
+14. **Modal:** Əsas səhifəni və ya arxa fonu kilidləyən, istifadəçi müəyyən bir qərar vermədən və ya məlumat daxil etmədən arxa fondakı interfeyslə işləməyə imkan verməyən pəncərə növüdür. Modal əsas UI-ni müvəqqəti bloklayan popup tipidir. Yəni praktik olaraq **modal popup-un bir növü hesab edilə bilər**, amma hər popup modal deyil.
 15. **Breadcrumbs (Çörək qırıntıları):** İstifadəçiyə veb-sayt daxilində cari olaraq hansı səhifədə olduğunu və əsas səhifədən ora necə gəldiyini göstərən iyerarxik naviqasiya zolağıdır (məsələn: Ana səhifə > Kateqoriya > Məhsul).
 16. **Radio button (Radio düyməsi):** Çoxsaylı seçimlər içərisindən yalnız birini seçməyə imkan verən dairəvi kiçik interaktiv elementdir.
 17. **Checkbox (Seçim qutusu):** İstifadəçinin siyahıdan birdən çox variantı eyni anda aktivləşdirə və ya söndürə bilməsi üçün nəzərdə tutulmuş kvadrat formalı işarələmə sahəsidir.
