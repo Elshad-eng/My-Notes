@@ -13,7 +13,7 @@
 11. **Button (Düymə):** Klikləndikdə form göndərmək, səhifə dəyişmək və ya bir əməliyyatı başlatmaq kimi konkret funksiyanı icra edən interaktiv elementdir. İstifadəçi interfeysində ən əsas çağırış (Call-to-Action) alətidir.
 12. **Overlay (Örtük layı):** Əsas səhifənin üzərini qismən və ya tamamilə qapadaraq (adətən qaraldaraq) diqqəti modal pəncərəyə və ya mərkəzi mesaja cəmləyən şəffaf qatdır. Arxa fondakı elementlərlə qarşılıqlı əlaqəni müvəqqəti məhdudlaşdırır. **Hər pop-up overlay ola bilər, amma hər overlay pop-up deyil.**
 
-    Məsələn, popup olmadan sadəcə bütün ekranı tündləşdirən overlay də ola bilər.
+    Məsələn, pop-up olmadan sadəcə bütün ekranı tündləşdirən overlay də ola bilər.
 13. **Dropdown (Açılan siyahı):** Üzərinə kliklədikdə və ya kursor gətirildikdə aşağıya doğru çoxsaylı seçimlər siyahısı açan yığcam menyudur. Ekranda yerə qənaət edərək geniş seçim imkanı təqdim edir.
 14. **Modal:** Əsas səhifəni və ya arxa fonu kilidləyən, istifadəçi müəyyən bir qərar vermədən və ya məlumat daxil etmədən arxa fondakı interfeyslə işləməyə imkan verməyən pəncərə növüdür. Modal əsas UI-ni müvəqqəti bloklayan popup tipidir. Yəni praktik olaraq **modal popup-un bir növü hesab edilə bilər**, amma hər popup modal deyil.
 15. **Breadcrumbs (Çörək qırıntıları):** İstifadəçiyə veb-sayt daxilində cari olaraq hansı səhifədə olduğunu və əsas səhifədən ora necə gəldiyini göstərən iyerarxik naviqasiya zolağıdır (məsələn: Ana səhifə > Kateqoriya > Məhsul).
@@ -33,4 +33,4 @@
 * **Layer** → elementin digər elementlərin **üstündə/altında yerləşməsi** (qat)
 * **Overlay** → başqa məzmunun **üstünə çıxan qat**, məsələn popup
 * **Grid layout** → elementləri sətir-sütun şəklində düzür
-* **Flex layout** → elementləri əsasən üfüqi və ya şaquli istiqamətdə düzür
+* **Flex layout** → elementləri əsasən ya sətir, ya sütun  düzür
