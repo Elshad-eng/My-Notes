@@ -11,7 +11,7 @@ Qarşı tərəf mənə tanrı təklifi ilə gələndə, ona bir sual verib bunun
 
 İnanc “default” deyil, avtomatik qəbul edilməməlidir. Yəni, “tanrı var sayılır, sən onu təkzib etməlisən” fikri tamamilə səhvdir.
 
-> Rasional düşüncədə qayda belədir: sübutu olmayan iddia avtomatik olaraq rədd edilir.
+> Rasional düşüncədə qayda belədir: sübutu olmayan iddia qəbul edilmir. Bu, həmin iddianın yanlış olduğunu söyləmək deyil. Sadəcə sübut gələnə qədər onu doğru saymamaq deməkdir.
 
 ## Aksiom və iddia
 
@@ -24,7 +24,9 @@ Burda cavab olaraq deyilə bilər ki: “Əgər məntiqdə aksiomlar qəbul edib
 
 ### Misallar ilə müqayisə
 
-“Məntiq işləyir”, “A=A”, “Ziddiyyət eyni anda doğru ola bilməz” — bunlar aksiomdur. Burda aksiomu rədd edə bilmirsən, müəyyən çərçivədə doğrudur. O cür sübut olunur ki, bunları həmin çərçivədə inkar etmək mümkün deyil. Yəni, əgər aksiomu rədd etsən, hətta danışa bilməzsən.
+> “Məntiq işləyir”, “A=A”, “Ziddiyyət eyni anda doğru ola bilməz” — bunlar aksiomdur. Onlar müəyyən çərçivədə doğrudur, amma sübut olunmur. Onları rədd etmək də mümkün deyil, çünki onları inkar edən hər cümlə elə onlardan istifadə edir. Yəni aksiomun inkarı özünü təkzib edir. Ona görə də, əgər aksiomu rədd etsən, hətta danışa bilməzsən.
+
+
 
 Misal, əgər sən desən: “Məntiqin işlədiyini sübut et, mən niyə buna güvənməliyəm” — bu cümlənin özü artıq məntiqdən istifadə edir. Bu, özünü məhv edir. Eyni ilə, “Sözlər mənaya malikdir” aksiomu olmasa, heç bir mübahisə mümkün olmaz.
 
@@ -53,8 +55,27 @@ Biz iddia etmirik ki, tanrı yoxdur. Biz deyirik ki, tanrıya inanmağımız ü�
 
 ### “Hər şeyin səbəbi var” arqumenti
 
-“Hər şeyin səbəbi var və o da Tanrıdır” demək də səhvdir. Çünki bu arqument deyir:
-
 > “Hər şeyin səbəbi var, kainatın da səbəbi var, o da tanrıdır.”
 
+Bu arqumentin ən sadə versiyası belədir: “Hər şeyin səbəbi var və o da Tanrıdır”. Bu versiya səhvdir.
+
 Problem isə odur ki, əgər hər şeyin səbəbi varsa, tanrının da olmalıdır. Yox, əgər “Tanrı istisnadır” deyirsənsə, onda səbəb qaydasını pozursan. Bu məntiq də özünü məhv edir.
+
+**Arqumentin güclü versiyaları**
+
+Amma səbəb arqumentinin daha ciddi versiyaları da var və onlar Tanrını qaydadan “istisna” etmir, tərifinə görə kənarda saxlayır.
+
+**Kalam arqumenti** deyir: “Başlanğıcı olan hər şeyin səbəbi var. Kainatın başlanğıcı var. Deməli, kainatın səbəbi var.” Tanrının isə başlanğıcı olmadığı üçün səbəbə ehtiyacı yoxdur.
+
+Məncə burda üç problem var:
+
+1. “Başlanğıcı olan hər şeyin səbəbi var” fikrini biz kainatın **daxilində** müşahidə edirik. Gördüyümüz hər şey artıq mövcud olan maddənin yeni formaya düşməsidir. Bu qaydanı kainatın **özünə** tətbiq etmək, Humun tənqid etdiyi saat bənzətməsi ilə eyni addımdır: daxildəki təcrübəni bütövə daşımaq.
+2. “Kainatın başlanğıcı var” da o qədər aydın deyil. Böyük Partlayış modeli kainatın indiki genişlənməsinin başlanğıcını göstərir, amma ondan əvvəl nəyin olub-olmadığını, ümumiyyətlə “əvvəl”in mənası olub-olmadığını hələ bilmirik.
+3. Hətta kainatın səbəbi olsa belə, bu səbəbin şüurlu, iradəli bir varlıq, yəni Tanrı olduğunu heç nə göstərmir. “İlk səbəb”dən “Tanrı”ya keçid əlavə sübut tələb edir.
+
+**Leibniz-in arqumenti** deyir: “Hər asılı (kontingent) şeyin, yəni olmaya da biləcək şeyin, öz xaricində bir izahı olmalıdır. Kainat asılıdır. Deməli, onun izahı asılı olmayan, zəruri bir varlıqdadır və o da Tanrıdır.”
+
+Burda da iki problem görürəm:
+
+1. Kainatın hər hissəsi asılı ola bilər, amma buradan kainatın bütövlükdə asılı olduğu çıxmır. Hissələrin xüsusiyyətini avtomatik olaraq bütövə aid etmək məntiqi xətadır.
+2. Əgər zəruri bir şey olmalıdırsa, niyə o, kainatın özü, yəni maddə və onun fundamental qanunları olmasın? Bu sual “Nizamlı kainatın zəruriliyi” məqaləsindəki fikrimlə birbaşa bağlıdır: qanunlar maddənin daxili xüsusiyyətidirsə, zərurəti kainatın xaricində axtarmağa ehtiyac yoxdur.
