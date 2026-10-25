@@ -19,3 +19,5 @@
 * [ICT and CS](ict-and-cs.md)
 * [CPython İmplementation](cpython-implementation.md)
 * [UI terminləri](ui-terminl-ri.md)
+* [Psixologiya təsnifatı](psixologiya-t-snifati/README.md)
+  * [Self Determination Theory](psixologiya-t-snifati/self-determination-theory.md)
