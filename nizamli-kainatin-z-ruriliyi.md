@@ -8,7 +8,7 @@ Bu suala cavab tapmaq üçün nizam və xaos nədir, ona bir tərif verək.
 
 **Nizam** — deterministik (və ya ehtimallı) proseslərin təkrar-təkrar eyni şəkildə baş verməsi nəticəsində ortaya çıxan mənzərədir (qanunlar burdan doğur).
 
-Biz kainatda niyə nizam görürük? Çünki fizika qanunları bu gün necə işləyirsə, sabah da elə işləyəcək (determinizm). Əgər bu zəncirvari səbəb-nəticə əlaqəsi olmasaydı, hər an hər şey təsadüfi baş versəydi, heç bir nizamdan söhbət gedə bilməzdi.
+Biz kainatda niyə nizam görürük? Çünki fizika qanunları bu gün necə işləyirsə, sabah da elə işləyəcək (qanunauyğunluq). Əgər bu zəncirvari səbəb-nəticə əlaqəsi olmasaydı, hər an hər şey təsadüfi baş versəydi, heç bir nizamdan söhbət gedə bilməzdi.
 
 **Xaos** isə tamamilə deterministik (qanunlara tabe) olan, lakin başlanğıc şərtlərə həssaslığı ucbatından gələcəyi proqnozlaşdırıla bilməyən sistemlərdir.
 
@@ -57,9 +57,7 @@ Amma məsələ də elə bundadır. Əgər riyazi olaraq “tam nizamsızlıq qey
 
 **Nizam — maddənin, enerjinin və fəza-zamanın qaçılmaz, fundamental və daxili xüsusiyyətidir.** Ortada bir möcüzə yoxdur, sadəcə mövcudluğun riyaziyyatı var.
 
-Bu bir az da Leibniz-in məşhur sualına oxşayır: “Niyə heç nə yox, məhz nəsə var? Axı heç nə (yoxluq) nəsədən (varlıqdan) daha sadə və daha asandır.” Bu suala hələ də tam cavab yoxdur. Heidegger onu fəlsəfənin ən əsas sualı adlandırıb, Wittgenstein isə dünyanın necə olduğunu deyil, ümumiyyətlə var olduğunu sirli sayıb. Amma bu sual açıq qalsa da, mənim burdakı arqumentimə təsir etmir: mən nəyinsə niyə var olduğunu deyil, var olan bir şeyin niyə nizamlı olduğunu izah edirəm.
-
-Bəzi fiziklər (məsələn, Frank Wilczek) hətta “heç nə”nin qeyri-sabit olduğunu, yəni heç nəyin olmamasının əslində daha çətin olduğunu iddia edirlər. Amma bu fikir mübahisəlidir, çünki onların danışdığı kvant vakuumu tam mənada “heç nə” deyil. Yəni bu sual hələ də ucu açıq qalır.
+Bu bir az da Leibniz-in məşhur sualına oxşayır: “Niyə heç nə yox, məhz nəsə var? Axı heç nə (yoxluq) nəsədən (varlıqdan) daha sadə və daha asandır.” Bu suala hələ də tam cavab yoxdur. Heidegger onu fəlsəfənin ən əsas sualı adlandırıb, Wittgenstein isə dünyanın necə olduğunu deyil, ümumiyyətlə var olduğunu sirli sayıb. Bəzi fiziklər (məsələn, Frank Wilczek) hətta “heç nə”nin qeyri-sabit olduğunu, yəni heç nəyin olmamasının əslində daha çətin olduğunu iddia edirlər. Amma bu fikir mübahisəlidir, çünki onların danışdığı kvant vakuumu tam mənada “heç nə” deyil. Yəni bu sual hələ də ucu açıq qalır. Amma bu sual açıq qalsa da, mənim burdakı arqumentimə təsir etmir: mən nəyinsə niyə var olduğunu deyil, var olan bir şeyin niyə nizamlı olduğunu izah edirəm.
 
 ## Öz-özünə təşkilatlanma (Self-Organization) və emercent xüsusiyyətlər
 

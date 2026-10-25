@@ -24,9 +24,7 @@ Burda cavab olaraq deyilə bilər ki: “Əgər məntiqdə aksiomlar qəbul edib
 
 ### Misallar ilə müqayisə
 
-> “Məntiq işləyir”, “A=A”, “Ziddiyyət eyni anda doğru ola bilməz” — bunlar aksiomdur. Onlar müəyyən çərçivədə doğrudur, amma sübut olunmur. Onları rədd etmək də mümkün deyil, çünki onları inkar edən hər cümlə elə onlardan istifadə edir. Yəni aksiomun inkarı özünü təkzib edir. Ona görə də, əgər aksiomu rədd etsən, hətta danışa bilməzsən.
-
-
+“Məntiq işləyir”, “A=A”, “Ziddiyyət eyni anda doğru ola bilməz” — bunlar aksiomdur. Onlar müəyyən çərçivədə doğrudur, amma sübut olunmur. Onları rədd etmək də mümkün deyil, çünki onları inkar edən hər cümlə elə onlardan istifadə edir. Yəni aksiomun inkarı özünü təkzib edir. Ona görə də, əgər aksiomu rədd etsən, hətta danışa bilməzsən.
 
 Misal, əgər sən desən: “Məntiqin işlədiyini sübut et, mən niyə buna güvənməliyəm” — bu cümlənin özü artıq məntiqdən istifadə edir. Bu, özünü məhv edir. Eyni ilə, “Sözlər mənaya malikdir” aksiomu olmasa, heç bir mübahisə mümkün olmaz.
 
@@ -55,9 +53,9 @@ Biz iddia etmirik ki, tanrı yoxdur. Biz deyirik ki, tanrıya inanmağımız ü�
 
 ### “Hər şeyin səbəbi var” arqumenti
 
-> “Hər şeyin səbəbi var, kainatın da səbəbi var, o da tanrıdır.”
+Bu arqumentin ən sadə versiyası belədir: “Hər şeyin səbəbi var və o da Tanrıdır”. Bu versiya səhvdir. Çünki bu arqument deyir:
 
-Bu arqumentin ən sadə versiyası belədir: “Hər şeyin səbəbi var və o da Tanrıdır”. Bu versiya səhvdir.
+> “Hər şeyin səbəbi var, kainatın da səbəbi var, o da tanrıdır.”
 
 Problem isə odur ki, əgər hər şeyin səbəbi varsa, tanrının da olmalıdır. Yox, əgər “Tanrı istisnadır” deyirsənsə, onda səbəb qaydasını pozursan. Bu məntiq də özünü məhv edir.
 
