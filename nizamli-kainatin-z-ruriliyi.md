@@ -1,4 +1,4 @@
-# Nizamlı kainatın zəruriliyi ?
+# Nizamlı kainatın zəruriliyi
 
 > **Kainatda nizam var, yoxsa xaos?**
 
@@ -27,9 +27,9 @@ Kainatın heç bir nöqtəsində (nə bir qara dəliyin daxilində, nə partlaya
 
 Gəlin ən nizamsız sayılan kvant fizikasına baxaq. Kvant fizikası sayəsində biz görürük ki, kainatın ən təməlindəki zərrəciklər tamamilə “azad”, təsadüfi və nizamsız davranırlar. Sanki kainatın arxitekturası belə qurulub: təməldə tam bir azadlıq və xaos var, amma bu azadlıqların cəmi riyazi bir zərurətlə nizamı doğurur.
 
-Heisenberg-in qeyri-müəyyənlik prinsipi göstərir ki, atomaltı zərrəciklərin sürətini və yerini eyni anda müəyyən etmək qeyri-mümkündür (texnoloji və ya bilgi zəifliyindən deyil, sadəcə belədir). Amma bu da “deterministikanı çökdürür, sistem nizamsızdır” demək deyil. Sadəcə hesablanabilən deyil. Amma bunu da müəyyən spektrdə hesablaya bilirik.
+Heisenberg-in qeyri-müəyyənlik prinsipi göstərir ki, atomaltı zərrəciklərin sürətini və yerini eyni anda müəyyən etmək qeyri-mümkündür (texnoloji və ya bilgi zəifliyindən deyil, sadəcə belədir). Bu o deməkdir ki, tək bir ölçmənin nəticəsi həqiqətən əvvəlcədən müəyyən deyil, yəni kvant səviyyəsində klassik mənada determinizm işləmir. Amma bu, sistemin nizamsız olduğu demək deyil. Burda nizam ehtimalların özündədir: tək bir nəticəni bilmirik, amma nəticələrin hansı ehtimalla paylanacağını dəqiq hesablaya bilirik. Elə nizamın tərifində də bunu nəzərə almışdım: nizam deterministik **və ya ehtimallı** proseslərin təkrar-təkrar eyni şəkildə baş verməsidir.
 
-Belə açıqlanıb ki, tək bir zərrəcik fəzada hərəkət edərkən bir maddə kimi deyil, bir ehtimal dalğası kimi hərəkət edir. O dalğanın harada pik nöqtəyə çatacağı riyazi olaraq (Şredinger tənliyi ilə) bəlli edilə bilir. Amma tək bir elektron sadəcə o ehtimallardan birini seçir. Biz milyonlarla elektron atanda isə bütün ehtimallar reallaşır və böyük nizam mənzərəsi ortalığa çıxır.
+Belə açıqlanıb ki, tək bir zərrəcik fəzada hərəkət edərkən bir maddə kimi deyil, bir ehtimal dalğası kimi hərəkət edir. O dalğanın harada pik nöqtəyə çatacağı riyazi olaraq (Şredinger tənliyi ilə) bəlli edilə bilir. Amma tək bir elektron sadəcə o ehtimallardan birini seçir. Biz milyonlarla elektron atanda isə nəticələr tam olaraq hesablanmış ehtimallara uyğun paylanır və böyük nizam mənzərəsi ortalığa çıxır.
 
 Yəni, kvant dünyasındakı tək bir elektron bəli, “azaddır” və tam təsadüfi hərəkət edir. Amma bu təsadüfilik qanunsuz bir başıpozuqluq deyil. **O elektron tamamilə azad olsa da, gedib Şredinger tənliyinin icazə vermədiyi bir yerdə peyda ola bilməz!**
 
@@ -37,13 +37,13 @@ Yəni, kvant dünyasındakı tək bir elektron bəli, “azaddır” və tam tə
 
 ## Ramsey teoremi: “Tam nizamsızlıq qeyri-mümkündür”
 
-Riyaziyyatda Ramsey Teoriyası adlanan çox maraqlı bir sahə var. Bu nəzəriyyənin fundamental şərhi belədir:
+Riyaziyyatda Ramsey Teoriyası adlanan çox maraqlı bir sahə var. Bu nəzəriyyənin əsas fikri belədir:
 
-> Yetərincə böyük olan hər hansı bir strukturda mütləq şəkildə nizamlı qəliblər (pattern) yaranmaq məcburiyyətindədir.
+> Yetərincə böyük olan hər hansı bir strukturda müəyyən nizamlı alt-strukturlar (pattern) mütləq yaranır.
 
-Başqa sözlə, riyazi olaraq “tam və qüsursuz bir nizamsızlıq” mövcud ola bilməz. Biz milyardlarla nöqtəni tamamilə təsadüfi şəkildə bir kağıza dağıtsaq belə, riyazi qanunauyğunluqlar gərəyi o nöqtələrin arasında mütləq düz xətlər, üçbucaqlar və ya həndəsi naxışlar tapılacaq.
+Başqa sözlə, riyazi olaraq “tam və qüsursuz bir nizamsızlıq” mövcud ola bilməz. Ən sadə nümunə belədir: altı nəfərlik istənilən qrupda ya bir-birini tanıyan üç nəfər, ya da bir-birini tanımayan üç nəfər mütləq tapılır. İnsanları necə seçməyimizdən asılı deyil, bu nizamdan qaçmaq mümkün deyil. Qrup böyüdükcə bu məcburi nizam da böyüyür.
 
-Təbiət və kainat da belədir. Maddə və enerji bir araya gəldiyi andan etibarən riyaziyyat avtomatik olaraq dövrəyə girir və xaosun içindən belə nizamlı strukturlar (qalaktikalar, planetlər, molekullar, canlılar) doğurur.
+Əlbəttə, bu riyazi həqiqətdir və fiziki strukturları özü yaratmır: qalaktikaları cazibə qüvvəsi, molekulları kimyəvi rabitələr yaradır. Amma Ramsey teoremi bir şeyi göstərir: tam nizamsızlıq hətta riyazi olaraq da mümkün deyil. Təbiətdə nizamı fizika qanunları yaradır, riyaziyyat isə göstərir ki, bu nizamın qarşısında “tam nizamsızlıq” kimi bir alternativ yoxdur.
 
 ## Ara nəticə: xaos var, nizamsızlıq yoxdur
 
@@ -57,7 +57,9 @@ Amma məsələ də elə bundadır. Əgər riyazi olaraq “tam nizamsızlıq qey
 
 **Nizam — maddənin, enerjinin və fəza-zamanın qaçılmaz, fundamental və daxili xüsusiyyətidir.** Ortada bir möcüzə yoxdur, sadəcə mövcudluğun riyaziyyatı var.
 
-Bu bir az da Leibniz-in “Niyə heç nə yox, məhz nəsə var? Axı heç nə (yoxluq) nəsədən (varlıqdan) daha sadə və daha asandır?” sualına oxşayır. Burda da Aristotel demiş, sadəcə “təbiət boşluqları sevmir”. Təbii ki, bu da tam bir cavab deyil, amma sonralar göstərilən kimi, heç nə olmaması daha çətindir (Martin Haydegger və Lüdviq Vitgenşteyn).
+Bu bir az da Leibniz-in məşhur sualına oxşayır: “Niyə heç nə yox, məhz nəsə var? Axı heç nə (yoxluq) nəsədən (varlıqdan) daha sadə və daha asandır.” Bu suala hələ də tam cavab yoxdur. Heidegger onu fəlsəfənin ən əsas sualı adlandırıb, Wittgenstein isə dünyanın necə olduğunu deyil, ümumiyyətlə var olduğunu sirli sayıb. Amma bu sual açıq qalsa da, mənim burdakı arqumentimə təsir etmir: mən nəyinsə niyə var olduğunu deyil, var olan bir şeyin niyə nizamlı olduğunu izah edirəm.
+
+Bəzi fiziklər (məsələn, Frank Wilczek) hətta “heç nə”nin qeyri-sabit olduğunu, yəni heç nəyin olmamasının əslində daha çətin olduğunu iddia edirlər. Amma bu fikir mübahisəlidir, çünki onların danışdığı kvant vakuumu tam mənada “heç nə” deyil. Yəni bu sual hələ də ucu açıq qalır.
 
 ## Öz-özünə təşkilatlanma (Self-Organization) və emercent xüsusiyyətlər
 
@@ -89,7 +91,7 @@ Qanunların olması üçün “kənardan bir müəllifə” ehtiyac yoxdur, çü
 
 ## Devid Hum və “kainatın unikallığı” problemi
 
-Şotland filosofu Devid Hum (David Hume) nizam və yaradıcı arasındakı əlaqəyə ən böyük fəlsəfi zərbəni vuran şəxsdir. O deyirdi ki, bizim “saatın müəllifi var, deməli kainatın da müəllifi olmalıdır” bənzətməmiz (analogiyamız) kökündən yanlışdır.
+Şotland filosofu Devid Hum (David Hume) nizam və yaradıcı arasındakı əlaqəyə ən böyük fəlsəfi zərbəni vuran şəxsdir. O deyirdi ki, bizim “saatın müəllifi var, deməli kainatın da müəllifi olmalıdır” bənzətməmiz (analogiyamız) kökündən yanlışdır. (Bu saat bənzətməsini sonralar, 1802-ci ildə Uilyam Peyli məşhurlaşdırıb. Amma Hum eyni məntiqə, yəni kainatı insan əlindən çıxmış mexanizmə bənzətməyə, ondan əvvəl, 1779-cu ildə nəşr olunmuş əsərində etiraz etmişdi.)
 
 Biz saatın müəllifi olduğunu bilirik, çünki əvvəllər saatların insanlar tərəfindən düzəldilməsi prosesini dəfələrlə müşahidə etmişik. Amma biz heç vaxt bir kainatın yaradılma prosesini müşahidə etməmişik. Əlimizdə müqayisə edə biləcəyimiz “yaradılmış kainatlar” və “öz-özünə yaranmış kainatlar” siyahısı yoxdur. Biz yalnız bircə kainatın daxilindəyik.
 
@@ -116,7 +118,7 @@ Bu nöqtədən sonra teistlər belə deyirlər:
 > “Yaxşı, bəs Tanrının daxili təbiətini, onun bu qanunları qoyacaq qədər nizamlı, güclü və şüurlu olmasını kim müəyyən edib?”
 
 * Əgər desək ki, “Tanrının təbiəti öz-özünə elədir, Onun yaradıcıya ehtiyacı yoxdur”, onda materialist də deyəcək: “Onda elə maddənin də təbiəti öz-özünə elədir, onun da əlavə bir yaradıcıya ehtiyacı yoxdur. Niyə bu ‘öz-özünə mövcud olma’ imtiyazını maddəyə deyil, Tanrıya veririk?”
-* Əgər desək ki, “Tanrını da başqa bir yaradıcı yaradıb”, bu halda sonsuz sayda yaradıcılar zənciri yaranır, bu isə məntiqlə qeyri-mümkündür.
+* Əgər desək ki, “Tanrını da başqa bir yaradıcı yaradıb”, bu halda sonsuz sayda yaradıcılar zənciri yaranır, bu isə heç nəyi izah etmir: hər addımda eyni sual təkrar olunur və cavab sadəcə bir addım geri itələnir.
 
 ### “Boşluqların Tanrısı” (God of the Gaps) tələsi
 
@@ -141,6 +143,8 @@ Yəni, bir hadisəni izah etmək üçün əlimizdə iki fərqli fərziyyə varsa
 2. **Fərziyyə 2:** Kainat və maddə var, onun fundamental qanunları var. Amma bu qanunları yazan, zamandan və fəzadan kənarda olan, sonsuz gücə, şüura və iradəyə sahib fövqəltəbii bir Varlıq (Tanrı) var.
 
 Okkamın ülgücünə görə, 2-ci fərziyyə tənliyə tamamilə sübut olunmaz, nəhəng və mürəkkəb bir “X elementini” (Tanrını) əlavə edir. **Kainatın qanunlarını maddənin özünə bağlamaq, onu kainatdan daha mürəkkəb bir Yaradıcıya bağlamaqdan daha sadə və səmərəli izahdır.**
+
+Burda teistlər etiraz edə bilər ki, Tanrı mürəkkəb deyil, əksinə, ən sadə varlıqdır, yəni hissələri olmayan, bölünməz bir varlıqdır (buna “ilahi sadəlik” deyirlər). Amma məncə bu, problemi həll etmir. Sonsuz gücə, biliyə və iradəyə sahib, kainatı yaradıb qanunlarını təyin edən bir şüuru “sadə” adlandırmaq sadəcə sözdür. Şüur, iradə və bilik tanıdığımız ən mürəkkəb şeylərdir. Onları “hissəsiz” elan etmək onları sadələşdirmir, sadəcə izahdan kənara çıxarır. Fiziki qanunların özündən başlamaq isə əlavə heç nə fərz etmir.
 
 ### Spinozanın və Eynşteynin cavabı (Panteizm)
 
