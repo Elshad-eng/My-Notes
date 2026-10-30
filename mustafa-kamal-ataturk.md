@@ -164,7 +164,7 @@ Bu hadisənin o gecəsi ilə bağlı mənbələr bir-biri ilə ziddiyyət təşk
 <summary>3. Tarixçilərin fərqli şərhləri</summary>
 
 * **Şəxsi qisas versiyası:** Rauf Orbayın yazdığına görə, Əli Şükrü Mustafa Sübhinin qatili Kayıqçı Kahyası Yəhyanı Topal Osmanın öldürdüyünü deyirdi və Topal Osman buna görə ona qəzəbli idi. Rauf Orbay qətlin səbəbinin bu ola biləcəyini yazır. Digər bir müəllif də Topal Osmanın Əli Şükrü bəyi şəxsi ədavətə görə öldürdüyünü müdafiə edir. _(Mənbə: sol, eksisozluk)_
-* **Atatürkü günahlandıran versiya:** Rza Nura görə, Topal Osmanın öldürülməsi əmrini Mustafa Kamal şəxsən verib, cinayətdən sonra isə Topal Osmanı təsəlli edib və öz evində gizlədib. Lakin Rza Nur Atatürkün kəskin əleyhdarına çevrilmiş bir şəxs idi, buna görə də onun xatirələrinə ehtiyatla yanaşılır. _(Mənbə: eksisozluk)_
+* **Atatürkü günahlandıran versiya:** Rza Nura görə, Əli Şükrü bəyin öldürülməsi əmrini Mustafa Kamal şəxsən verib, cinayətdən sonra isə Topal Osmanı təsəlli edib və öz evində gizlədib. Lakin Rza Nur Atatürkün kəskin əleyhdarına çevrilmiş bir şəxs idi, buna görə də onun xatirələrinə ehtiyatla yanaşılır. _(Mənbə: eksisozluk)_
 * **“İki quş” şərhi:** O vaxt TBMM-də katib olan Mahir İz xatirələrində hadisəni “Bir daşla iki quş vuruldu” sözləri ilə şərh edib. Yəni həm müxalif millət vəkili, həm də nəzarətdən çıxmağa başlayan Topal Osman aradan götürülüb. _(Mənbə: ensonhaber)_
 
 </details>
