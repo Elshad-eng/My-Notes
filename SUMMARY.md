@@ -21,3 +21,4 @@
 * [UI terminləri](ui-terminl-ri.md)
 * [Psixologiya təsnifatı](psixologiya-t-snifati/README.md)
   * [Self Determination Theory](psixologiya-t-snifati/self-determination-theory.md)
+* [Mustafa Kamal Atatürk](mustafa-kamal-ataturk.md)
